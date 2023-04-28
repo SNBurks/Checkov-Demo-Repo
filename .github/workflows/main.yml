@@ -1,4 +1,4 @@
-name: My Demo Workflow
+name: My Checkov Demo Workflow
 
 on:
   pull_request:
