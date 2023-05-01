@@ -19,5 +19,5 @@ jobs:
       - name: Checkov GitHub Action
         uses: bridgecrewio/checkov-action@v12.1347.0
         
-      - name: --policy-metadata-filter policy.complianceStandard=NIST 800-53
+
         
